@@ -1,0 +1,13 @@
+name = "StoryPack"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a83c65d79fab04792da1f4d0785ef9209d552263ee83db6792b1ee45af80d3c"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

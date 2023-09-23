@@ -1,0 +1,13 @@
+name = "Cutscenary"
+filename = "cutscenary-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AWHnPgoW/versions/jJfc8B90/cutscenary-1.0.0.jar"
+hash-format = "sha1"
+hash = "32838fdc51a2a89a372773751d8b5b4146c088f6"
+
+[update]
+[update.modrinth]
+mod-id = "AWHnPgoW"
+version = "jJfc8B90"

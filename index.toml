@@ -1,0 +1,80 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "9d9082fa6f2545362e65b5a2d8f8baa76dc7a6bfa4c5a9d7041e4a87e6a449d3"
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "b144c70cb5579969bbb2cc14ffa00389a8975ac00b7bdc00f6297712adc9fe06"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
+file = "mods/cutscenary.pw.toml"
+hash = "18973c96b190b1186c3bf68c3a0424ff6fe97089b16b08bc10e5a987cba51a60"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.pw.toml"
+hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
+metafile = true
+
+[[files]]
+file = "mods/templates-2.pw.toml"
+hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "f9df3436e7cf3297d541b9677bd9a8530e575a561b0cc2744075457b1c08bacd"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "5f8a2c24c02be04b6939663d79d574eb7f745b1de0fae7ed3b89c071b5a4f7d7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
+metafile = true
